@@ -6,7 +6,7 @@ The objective of this project is to calculate the Body Mass Index (BMI) of a use
 
 ## Steps Performed
 1. Took user input for weight (kg) and height (meters).
-2. Applied the BMI formula: BMI = weight / (height * height).
+2. Applied the BMI formula: BMI = weight / (height * * 2).
 3. Classified BMI into categories such as Underweight, Normal, and Overweight.
 4. Displayed the BMI value and health status.
 
